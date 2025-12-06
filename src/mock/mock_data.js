@@ -105,6 +105,13 @@ export const mockData = {
           "url": "https://accounts.google.com/b/0/AddMailService",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765025554500",
+          "name": "google",
+          "url": "https://www.google.com.hk/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -168,7 +175,7 @@ export const mockData = {
     {
       "id": "category-1765025195959",
       "icon": "💼",
-      "name": "ip check",
+      "name": "ip check&speed test",
       "order": 0,
       "sites": [
         {
@@ -189,6 +196,69 @@ export const mockData = {
           "id": "site-1765025243370",
           "name": "ping",
           "url": "https://www.itdog.cn/ping/152.26.15.6",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765025651171",
+          "name": "fast",
+          "url": "https://fast.com/zh/cn",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765025957097",
+          "name": "cf测速",
+          "url": "https://speed.cloudlare.com",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765025998544",
+          "name": "ip check",
+          "url": "https://ipcheck.ing/#/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026034132",
+          "name": "ip",
+          "url": "https://ip.skk.moe/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026079305",
+          "name": "ip家宽",
+          "url": "https://ping0.cc/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026121920",
+          "name": "ip.gs",
+          "url": "https://ip.gs/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026149847",
+          "name": "ip.sb",
+          "url": "https://ip.sb/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026222488",
+          "name": "查询Ip",
+          "url": "https://ip.900cha.com/172.19.0.1.html",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026256143",
+          "name": "itdog",
+          "url": "https://www.itdog.cn/ping/",
           "description": "",
           "icon": ""
         }
@@ -219,6 +289,57 @@ export const mockData = {
           "id": "site-1765025392286",
           "name": "wqw.frii.site",
           "url": "https://www.frii.site/zh_CN/dashboard",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1765025757874",
+      "icon": "📁",
+      "name": "机场",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765026538037",
+          "name": "一个朋友",
+          "url": "https://ygpy.net/?=2",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026585964",
+          "name": "备用订阅",
+          "url": "https://free.king361.cf/",
+          "description": "",
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "category-1765025827712",
+      "icon": "📊",
+      "name": "其他",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765025887338",
+          "name": "谷歌别名邮箱",
+          "url": "https://www.emailnator.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026355735",
+          "name": "无限邮箱",
+          "url": "https://www.ymmynb.com/yx/index.php",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026464181",
+          "name": "代理软件",
+          "url": "https://zgq-inc.github.io/overthefirewall/#ISO/iPadOS",
           "description": "",
           "icon": ""
         }
