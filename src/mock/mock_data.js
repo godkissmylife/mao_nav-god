@@ -374,7 +374,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航god",
-  "_fileSha": "b56ae7d635f768ccc6d4307486695295d5dc326b",
-  "search": "google"
+  "title": "猫猫导航🐱"
 }
