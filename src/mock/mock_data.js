@@ -313,6 +313,20 @@ export const mockData = {
           "url": "https://free.king361.cf/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765026743187",
+          "name": "每日订阅",
+          "url": "https://github.com/search?q=https%3A%2F%2Fpaste.gg%2Fp%2Fjimbob%2F8a1df22a85d5408dadcac626afb919d7%2Ffiles%2F17a1de7f51b9412984e463010fd19657%2Fraw&type=code",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026923867",
+          "name": "北极光Socks",
+          "url": "https://tomcat1235.nyc.mn/",
+          "description": "",
+          "icon": ""
         }
       ]
     },
@@ -340,6 +354,20 @@ export const mockData = {
           "id": "site-1765026464181",
           "name": "代理软件",
           "url": "https://zgq-inc.github.io/overthefirewall/#ISO/iPadOS",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026809450",
+          "name": "临时邮箱",
+          "url": "https://dropmail.me/zh/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765026864252",
+          "name": "可固定性临时邮箱",
+          "url": "https://mail.tm/zh/view/65fd6c5481257548c2659e7e/",
           "description": "",
           "icon": ""
         }
