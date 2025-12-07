@@ -369,35 +369,35 @@ export const mockData = {
           "name": "谷歌别名邮箱",
           "url": "https://www.emailnator.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.emailnator.com"
         },
         {
           "id": "site-1765026355735",
           "name": "无限邮箱",
           "url": "https://www.ymmynb.com/yx/index.php",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.ymmynb.com"
         },
         {
           "id": "site-1765026464181",
           "name": "代理软件",
-          "url": "https://zgq-inc.github.io/overthefirewall/#ISO/iPadOS",
+          "url": "https://overthefirewall.zgqinc.gq/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/overthefirewall.zgqinc.gq"
         },
         {
           "id": "site-1765026809450",
           "name": "临时邮箱",
           "url": "https://dropmail.me/zh/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/dropmail.me"
         },
         {
           "id": "site-1765026864252",
           "name": "可固定性临时邮箱",
           "url": "https://mail.tm/zh/view/65fd6c5481257548c2659e7e/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/mail.tm"
         }
       ]
     }
