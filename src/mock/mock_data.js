@@ -137,16 +137,16 @@ export const mockData = {
         },
         {
           "id": "site-1765024675833",
-          "name": "edt0.qzz-wqwwls2-8",
+          "name": "edt0.qzz",
           "url": "https://edt0.wjwqwlove.qzz.io/admin",
-          "description": "",
+          "description": "edt0.qzz-wqwwls2-8",
           "icon": "https://www.faviconextractor.com/favicon/edt0.wjwqwlove.qzz.io"
         },
         {
           "id": "site-1765024701612",
-          "name": "edt1.ggff-wqwwls55",
+          "name": "edt1.ggff",
           "url": "https://edt1.wjwqwlove.ggff.net/admin",
-          "description": "",
+          "description": "edt1.ggff-wqwwls55",
           "icon": "https://www.faviconextractor.com/favicon/edt1.wjwqwlove.ggff.net"
         },
         {
