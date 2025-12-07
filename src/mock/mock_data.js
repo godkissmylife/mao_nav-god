@@ -287,7 +287,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1765025392286",
-          "name": "wqw.frii.site",
+          "name": "wqw.frii.site-wqw-Aa2-8",
           "url": "https://www.frii.site/zh_CN/dashboard",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.frii.site"
