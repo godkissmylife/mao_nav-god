@@ -183,28 +183,28 @@ export const mockData = {
           "name": "IPLark - 查看本机IP地址 - 我的IP归属地",
           "url": "https://iplark.com",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/iplark.com"
         },
         {
           "id": "site-1765025229265",
           "name": "IP地址信息和纯净度检测 | IPPure",
           "url": "https://ippure.com",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ippure.com"
         },
         {
           "id": "site-1765025243370",
           "name": "ping",
           "url": "https://www.itdog.cn/ping/152.26.15.6",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
         },
         {
           "id": "site-1765025651171",
           "name": "fast",
           "url": "https://fast.com/zh/cn",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/fast.com"
         },
         {
           "id": "site-1765025957097",
