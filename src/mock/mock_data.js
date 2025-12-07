@@ -301,16 +301,16 @@ export const mockData = {
       "order": 0,
       "sites": [
         {
-          "id": "site-1765026585964",
-          "name": "备用订阅",
-          "url": "https://free.king361.cf/",
+          "id": "site-1765026538037",
+          "name": "一个朋友",
+          "url": "https://ygpy.net/?=2",
           "description": "",
           "icon": ""
         },
         {
-          "id": "site-1765026538037",
-          "name": "一个朋友",
-          "url": "https://ygpy.net/?=2",
+          "id": "site-1765026585964",
+          "name": "备用订阅",
+          "url": "https://free.king361.cf/",
           "description": "",
           "icon": ""
         },
@@ -332,6 +332,13 @@ export const mockData = {
           "id": "site-1765026923867",
           "name": "北极光Socks",
           "url": "https://tomcat1235.nyc.mn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765089743457",
+          "name": "cf快速部署工具",
+          "url": "https://cfworker.edtunnel.best/zh/",
           "description": "",
           "icon": ""
         }
