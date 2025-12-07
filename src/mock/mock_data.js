@@ -297,7 +297,7 @@ export const mockData = {
     {
       "id": "category-1765025757874",
       "icon": "📁",
-      "name": "机场",
+      "name": "备用订阅/代理软件",
       "order": 0,
       "sites": [
         {
@@ -355,6 +355,13 @@ export const mockData = {
           "url": "https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/11clash",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/raw.githubusercontent.com"
+        },
+        {
+          "id": "site-1765094163650",
+          "name": "代理软件",
+          "url": "https://overthefirewall.zgqinc.gq/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/overthefirewall.zgqinc.gq"
         }
       ]
     },
