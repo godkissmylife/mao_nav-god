@@ -211,56 +211,56 @@ export const mockData = {
           "name": "cf测速",
           "url": "https://speed.cloudlare.com",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/speed.cloudlare.com"
         },
         {
           "id": "site-1765025998544",
           "name": "ip check",
           "url": "https://ipcheck.ing/#/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ipcheck.ing"
         },
         {
           "id": "site-1765026034132",
           "name": "ip",
           "url": "https://ip.skk.moe/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ip.skk.moe"
         },
         {
           "id": "site-1765026079305",
           "name": "ip家宽",
           "url": "https://ping0.cc/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ping0.cc"
         },
         {
           "id": "site-1765026121920",
           "name": "ip.gs",
           "url": "https://ip.gs/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ip.gs"
         },
         {
           "id": "site-1765026149847",
           "name": "ip.sb",
           "url": "https://ip.sb/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ip.sb"
         },
         {
           "id": "site-1765026222488",
           "name": "查询Ip",
           "url": "https://ip.900cha.com/172.19.0.1.html",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ip.900cha.com"
         },
         {
           "id": "site-1765026256143",
           "name": "itdog",
           "url": "https://www.itdog.cn/ping/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
         }
       ]
     },
