@@ -290,7 +290,7 @@ export const mockData = {
           "name": "wqw.frii.site",
           "url": "https://www.frii.site/zh_CN/dashboard",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.frii.site"
         }
       ]
     },
