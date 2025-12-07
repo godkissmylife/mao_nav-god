@@ -275,7 +275,7 @@ export const mockData = {
           "name": "谷歌翻译",
           "url": "https://translate.google.com/?sl=auto&tl=zh-CN&op=translate",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/translate.google.com"
         }
       ]
     },
