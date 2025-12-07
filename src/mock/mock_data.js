@@ -17,8 +17,8 @@ export const mockData = {
           "id": "site-1765024588274",
           "name": "god-ClouDNS",
           "url": "https://www.cloudns.net/main/dashboard/domain-names/",
-          "description": "ClouDNS",
-          "icon": ""
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
         }
       ]
     },
@@ -76,42 +76,42 @@ export const mockData = {
           "name": "Instagram",
           "url": "https://www.instagram.com/",
           "description": "Instagram",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.instagram.com"
         },
         {
           "id": "site-1765025096357",
           "name": "X",
           "url": "https://x.com/",
           "description": "X",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/x.com"
         },
         {
           "id": "site-1765025124159",
           "name": "facebook",
           "url": "https://www.facebook.com/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.facebook.com"
         },
         {
           "id": "site-1765025164246",
           "name": "Telegram",
           "url": "https://web.telegram.org/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/web.telegram.org"
         },
         {
           "id": "site-1765025337845",
           "name": "谷歌邮箱",
           "url": "https://accounts.google.com/b/0/AddMailService",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/accounts.google.com"
         },
         {
           "id": "site-1765025554500",
           "name": "google",
           "url": "https://www.google.com.hk/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/www.google.com.hk"
         }
       ]
     },
@@ -125,36 +125,36 @@ export const mockData = {
           "id": "site-1765024646409",
           "name": "Edt2.0 教程blog",
           "url": "https://blog.cmliussss.com/p/edt2/",
-          "description": "Edt2.0 教程blog",
-          "icon": ""
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/blog.cmliussss.com"
         },
         {
           "id": "site-1765024675833",
           "name": "edt0.qzz",
           "url": "https://edt0.wjwqwlove.qzz.io/admin",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/edt0.wjwqwlove.qzz.io"
         },
         {
           "id": "site-1765024701612",
           "name": "edt1.ggff",
           "url": "https://edt1.wjwqwlove.ggff.net/admin",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/edt1.wjwqwlove.ggff.net"
         },
         {
           "id": "site-1765024725883",
           "name": "cf优选域名",
           "url": "https://cf.090227.xyz",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/cf.090227.xyz"
         },
         {
           "id": "site-1765024748832",
           "name": "在线订阅转换",
           "url": "https://subconverters.com",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/subconverters.com"
         },
         {
           "id": "site-1765024844930",
@@ -168,7 +168,7 @@ export const mockData = {
           "name": "godedt-frii.site",
           "url": "https://wqw.frii.site/admin",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/wqw.frii.site"
         }
       ]
     },
@@ -402,7 +402,5 @@ export const mockData = {
       ]
     }
   ],
-  "title": "导航god",
-  "_fileSha": "c35f0c137f8fb7ce288fd56eff74cb0f982c24d2",
-  "search": "google"
+  "title": "导航god"
 }
