@@ -305,56 +305,56 @@ export const mockData = {
           "name": "一个朋友",
           "url": "https://ygpy.net/?=2",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/ygpy.net"
         },
         {
           "id": "site-1765026585964",
           "name": "备用订阅",
           "url": "https://free.king361.cf/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/free.king361.cf"
         },
         {
           "id": "site-1765026743187",
           "name": "每日订阅",
           "url": "https://github.com/search?q=https%3A%2F%2Fpaste.gg%2Fp%2Fjimbob%2F8a1df22a85d5408dadcac626afb919d7%2Ffiles%2F17a1de7f51b9412984e463010fd19657%2Fraw&type=code",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         },
         {
           "id": "site-1765088887709",
           "name": "爬取节点每日更新(有的不行要导入测试)",
           "url": "https://asfn.awafuns.cn",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/asfn.awafuns.cn"
         },
         {
           "id": "site-1765026923867",
           "name": "北极光Socks",
           "url": "https://tomcat1235.nyc.mn/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/tomcat1235.nyc.mn"
         },
         {
           "id": "site-1765089743457",
           "name": "cf快速部署工具",
           "url": "https://cfworker.edtunnel.best/zh/",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/cfworker.edtunnel.best"
         },
         {
           "id": "site-1765089941068",
           "name": "V2每日订阅更新",
           "url": "https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/11v2ray",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/raw.githubusercontent.com"
         },
         {
           "id": "site-1765089964854",
           "name": "clash订阅每日更新",
           "url": "https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/11clash",
           "description": "",
-          "icon": ""
+          "icon": "https://www.faviconextractor.com/favicon/raw.githubusercontent.com"
         }
       ]
     },
