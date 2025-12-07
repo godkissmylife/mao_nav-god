@@ -60,7 +60,7 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "娱乐休闲",
+      "name": "国外软件",
       "icon": "🎮",
       "order": 8,
       "sites": [
@@ -268,21 +268,6 @@ export const mockData = {
           "url": "https://www.itdog.cn/ping/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.itdog.cn"
-        }
-      ]
-    },
-    {
-      "id": "category-1765025272013",
-      "icon": "🔧",
-      "name": "收藏",
-      "order": 0,
-      "sites": [
-        {
-          "id": "site-1765025301093",
-          "name": "谷歌翻译",
-          "url": "https://translate.google.com/?sl=auto&tl=zh-CN&op=translate",
-          "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/translate.google.com"
         }
       ]
     },
