@@ -8,16 +8,16 @@ export const mockData = {
       "sites": [
         {
           "id": "cloudflare",
-          "name": "god-cf-Aa2-8",
+          "name": "god-cf",
           "url": "https://dash.cloudflare.com/2468e694678aa35277f33b05246b977f/pages/view/sub-god/settings/production",
-          "description": "cf",
+          "description": "god-cf-Aa2-8",
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
           "id": "site-1765024588274",
-          "name": "god-ClouDNS-Aa2-8",
+          "name": "god-ClouDNS",
           "url": "https://www.cloudns.net/main/dashboard/domain-names/",
-          "description": "",
+          "description": "god-ClouDNS-Aa2-8",
           "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
         }
       ]
