@@ -358,7 +358,7 @@ export const mockData = {
         },
         {
           "id": "site-1765094163650",
-          "name": "代理软件",
+          "name": "代理软件&教程/机场/杂集",
           "url": "https://overthefirewall.zgqinc.gq/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/overthefirewall.zgqinc.gq"
