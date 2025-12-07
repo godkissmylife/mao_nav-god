@@ -130,14 +130,14 @@ export const mockData = {
         },
         {
           "id": "site-1765024675833",
-          "name": "edt0.qzz",
+          "name": "edt0.qzz-wqwwls2-8",
           "url": "https://edt0.wjwqwlove.qzz.io/admin",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/edt0.wjwqwlove.qzz.io"
         },
         {
           "id": "site-1765024701612",
-          "name": "edt1.ggff",
+          "name": "edt1.ggff-wqwwls55",
           "url": "https://edt1.wjwqwlove.ggff.net/admin",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/edt1.wjwqwlove.ggff.net"
@@ -158,14 +158,14 @@ export const mockData = {
         },
         {
           "id": "site-1765024844930",
-          "name": "Sub-One聚合订阅密码Aa26-08",
+          "name": "Sub-One聚合订阅密码Aa2-8",
           "url": "https://53963937.sub-god.pages.dev",
           "description": "",
           "icon": ""
         },
         {
           "id": "site-1765024892729",
-          "name": "godedt-frii.site",
+          "name": "godedt-Aa2-8",
           "url": "https://wqw.frii.site/admin",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/wqw.frii.site"
