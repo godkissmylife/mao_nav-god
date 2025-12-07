@@ -10,14 +10,14 @@ export const mockData = {
           "id": "cloudflare",
           "name": "god-cf",
           "url": "https://dash.cloudflare.com/2468e694678aa35277f33b05246b977f/pages/view/sub-god/settings/production",
-          "description": "god-cf-Aa2-8",
+          "description": "Aa2-8",
           "icon": "/sitelogo/www.cloudflare.com.ico"
         },
         {
           "id": "site-1765024588274",
           "name": "god-ClouDNS",
           "url": "https://www.cloudns.net/main/dashboard/domain-names/",
-          "description": "god-ClouDNS-Aa2-8",
+          "description": "Aa2-8",
           "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
         }
       ]
@@ -279,51 +279,51 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1765025392286",
-          "name": "wqw.frii.site",
+          "name": "wqw.frii.site-wqw-Aa2-8",
           "url": "https://www.frii.site/zh_CN/dashboard",
-          "description": "wqw-Aa2-8，无法托管cf,永久免费，可cmame/A/AAAA，多个域名未使用，2025/12/1注册，永久免费年续约",
+          "description": "无法托管cf,永久免费，可cmame/A/AAAA，多个域名未使用，2025/12/1注册，永久免费年续约",
           "icon": "https://www.faviconextractor.com/favicon/www.frii.site"
         },
         {
           "id": "site-1765095934629",
-          "name": "wqw.gv.uy",
+          "name": "wqw.gv.uy-woainichina-Aa2-8",
           "url": "https://nic.gv.uy/",
-          "description": "woainichina-Aa2-8，无法托管吃饭，2025/12/5，一年有效期，不会cmame",
+          "description": "无法托管吃饭，2025/12/5，一年有效期，不会cmame",
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         },
         {
           "id": "site-1765096861296",
-          "name": "ipv6",
+          "name": "ipv6-wjwqw-Aa123",
           "url": "https://tunnelbroker.net/",
-          "description": "wjwqw，Aa12，2025/12/1注册",
+          "description": "2025/12/1注册",
           "icon": "https://www.faviconextractor.com/favicon/tunnelbroker.net"
         },
         {
           "id": "site-1765096906528",
-          "name": "ggff",
+          "name": "ggff-woainichina关联登录",
           "url": "https://customer.l53.net/",
-          "description": "woainichina关联登录",
+          "description": "",
           "icon": "https://www.faviconextractor.com/favicon/customer.l53.net"
         },
         {
           "id": "site-1765097004110",
-          "name": "dpdns/qzz",
+          "name": "dpdns/qzz-woainichina-Aa12",
           "url": "https://dash.domain.digitalplat.org/auth/login?next=%2F",
-          "description": "woainichina-Aa12，2025/12/1注册",
+          "description": "2025/12/1注册",
           "icon": "https://www.faviconextractor.com/favicon/dash.domain.digitalplat.org"
         },
         {
           "id": "site-1765097046998",
-          "name": "zoneabc",
+          "name": "woainichina-Aa2-8",
           "url": "https://zoneabc.net/",
-          "description": "woainichina-Aa2-8，无法托管cf，域名wjwqwlove.zone.net，2025/12/1注册",
+          "description": "无法托管cf，域名wjwqwlove.zone.net，2025/12/1注册",
           "icon": "https://www.faviconextractor.com/favicon/zoneabc.net"
         },
         {
           "id": "site-1765097316187",
-          "name": "de5",
+          "name": "de5-woaainichina-Aa12",
           "url": "https://www.dnshe.com/domain-en.html",
-          "description": "woaainichina-Aa12，de5.net可以托管,2025/12/1注册，永久免费年续约",
+          "description": "de5.net可以托管,2025/12/1注册，永久免费年续约",
           "icon": ""
         }
       ]
