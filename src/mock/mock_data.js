@@ -112,6 +112,13 @@ export const mockData = {
           "url": "https://www.google.com.hk/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.google.com.hk"
+        },
+        {
+          "id": "site-1765097547939",
+          "name": "谷歌翻译",
+          "url": "https://translate.google.com/?sl=auto&tl=zh-CN&op=translate",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/translate.google.com"
         }
       ]
     },
