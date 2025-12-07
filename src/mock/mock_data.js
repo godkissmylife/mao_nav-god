@@ -341,6 +341,20 @@ export const mockData = {
           "url": "https://cfworker.edtunnel.best/zh/",
           "description": "",
           "icon": ""
+        },
+        {
+          "id": "site-1765089941068",
+          "name": "V2每日订阅更新",
+          "url": "https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/11v2ray",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1765089964854",
+          "name": "clash订阅每日更新",
+          "url": "https://raw.githubusercontent.com/ggborr/FREEE-VPN/refs/heads/main/11clash",
+          "description": "",
+          "icon": ""
         }
       ]
     },
