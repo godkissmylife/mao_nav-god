@@ -289,8 +289,50 @@ export const mockData = {
           "id": "site-1765025392286",
           "name": "wqw.frii.site-wqw-Aa2-8",
           "url": "https://www.frii.site/zh_CN/dashboard",
-          "description": "",
+          "description": "无法托管cf,永久免费，可cmame/A/AAAA，多个域名未使用，2025/12/1注册，永久免费年续约",
           "icon": "https://www.faviconextractor.com/favicon/www.frii.site"
+        },
+        {
+          "id": "site-1765095934629",
+          "name": "wqw.gv.uy-woainichina-Aa2-8",
+          "url": "https://nic.gv.uy/",
+          "description": "无法托管吃饭，2025/12/5，一年有效期，不会cmame",
+          "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
+        },
+        {
+          "id": "site-1765096861296",
+          "name": "ipv6-wjwqw-Aa123",
+          "url": "https://tunnelbroker.net/",
+          "description": "2025/12/1注册",
+          "icon": "https://www.faviconextractor.com/favicon/tunnelbroker.net"
+        },
+        {
+          "id": "site-1765096906528",
+          "name": "ggff-woainichina关联登录",
+          "url": "https://customer.l53.net/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/customer.l53.net"
+        },
+        {
+          "id": "site-1765097004110",
+          "name": "dpdns/qzz-woainichina-Aa12",
+          "url": "https://dash.domain.digitalplat.org/auth/login?next=%2F",
+          "description": "2025/12/1注册",
+          "icon": "https://www.faviconextractor.com/favicon/dash.domain.digitalplat.org"
+        },
+        {
+          "id": "site-1765097046998",
+          "name": "woainichina-Aa2-8",
+          "url": "https://zoneabc.net/",
+          "description": "无法托管cf，域名wjwqwlove.zone.net，2025/12/1注册",
+          "icon": "https://www.faviconextractor.com/favicon/zoneabc.net"
+        },
+        {
+          "id": "site-1765097316187",
+          "name": "de5-woaainichina-Aa12",
+          "url": "https://www.dnshe.com/domain-en.html",
+          "description": "de5.net可以托管,2025/12/1注册，永久免费年续约",
+          "icon": ""
         }
       ]
     },
