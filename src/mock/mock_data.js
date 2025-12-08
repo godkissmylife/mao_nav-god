@@ -143,7 +143,7 @@ export const mockData = {
         },
         {
           "id": "site-1765188972927",
-          "name": "sks5-wls.de5,.net",
+          "name": "sks5-wls.de5.net",
           "url": "http://bd31c75a-1b69-4466-bce3-ceb6e91b72e2",
           "description": "sks5自建",
           "icon": ""
