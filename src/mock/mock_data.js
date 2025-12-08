@@ -252,7 +252,7 @@ export const mockData = {
           "id": "site-1765095934629",
           "name": "wqw.gv.uy-woainichina-Aa2-8",
           "url": "https://nic.gv.uy/",
-          "description": "无法托管吃饭，2025/12/5，一年有效期，不会cmame",
+          "description": "无法托管cf，2025/12/5，一年有效期，cmame导航",
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         },
         {
