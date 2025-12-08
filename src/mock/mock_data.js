@@ -308,7 +308,7 @@ export const mockData = {
           "id": "site-1765173482774",
           "name": "dynu-god@-Aa2-8",
           "url": "https://www.dynu.com/en-US/ControlPanel",
-          "description": "2025/12/8注册，wqw.freedns.org永久免费",
+          "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf",
           "icon": "https://www.faviconextractor.com/favicon/www.dynu.com"
         }
       ]
