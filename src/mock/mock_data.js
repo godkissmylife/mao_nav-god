@@ -303,6 +303,13 @@ export const mockData = {
           "url": "https://secure.nom.za/pages/dashboard",
           "description": "(被拒绝域名请求)",
           "icon": "https://www.faviconextractor.com/favicon/secure.nom.za"
+        },
+        {
+          "id": "site-1765173482774",
+          "name": "dynu-god@-Aa2-8",
+          "url": "https://www.dynu.com/en-US/ControlPanel",
+          "description": "2025/12/8注册，wqw.freedns.org永久免费",
+          "icon": "https://www.faviconextractor.com/favicon/www.dynu.com"
         }
       ]
     },
