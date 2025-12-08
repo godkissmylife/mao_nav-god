@@ -440,6 +440,28 @@ export const mockData = {
       "name": "博客/论坛/📁",
       "order": 0,
       "sites": []
+    },
+    {
+      "id": "category-1765196288110",
+      "icon": "🌐",
+      "name": "托管平台",
+      "order": 0,
+      "sites": [
+        {
+          "id": "site-1765196348403",
+          "name": "dns.he",
+          "url": "https://dns.he.net/?hosted_dns_zoneid=1290656&menu=edit_zone&hosted_dns_editzone",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dns.he.net"
+        },
+        {
+          "id": "site-1765196394253",
+          "name": "hostry",
+          "url": "https://hostry.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/hostry.com"
+        }
+      ]
     }
   ],
   "title": "导航god"
