@@ -465,7 +465,7 @@ export const mockData = {
     {
       "id": "category-1765196288110",
       "icon": "🌐",
-      "name": "托管平台",
+      "name": "托管平台(要钱要手机验证码)",
       "order": 0,
       "sites": [
         {
