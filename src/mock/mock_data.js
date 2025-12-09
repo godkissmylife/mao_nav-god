@@ -460,6 +460,27 @@ export const mockData = {
           "url": "https://hostry.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/hostry.com"
+        },
+        {
+          "id": "site-1765264936149",
+          "name": "dns.he.net",
+          "url": "https://dns.he.net/?hosted_dns_zoneid=1290656&menu=edit_zone&hosted_dns_editzone",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/dns.he.net"
+        },
+        {
+          "id": "site-1765265122984",
+          "name": "vercel",
+          "url": "https://vercel.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/vercel.com"
+        },
+        {
+          "id": "site-1765265194303",
+          "name": "zeabur",
+          "url": "https://zeabur.com/",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
         }
       ]
     }
