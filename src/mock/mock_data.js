@@ -438,6 +438,20 @@ export const mockData = {
           "url": "https://mail.tm/zh/view/65fd6c5481257548c2659e7e/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/mail.tm"
+        },
+        {
+          "id": "site-1765265741788",
+          "name": "虚拟身份生成",
+          "url": "https://www.meiguodizhi.com/",
+          "description": "",
+          "icon": "https://www.meiguodizhi.com/"
+        },
+        {
+          "id": "site-1765265760396",
+          "name": "身份生成器",
+          "url": "https://www.amz123.com/tools-fakeidentity",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/www.meiguodizhi.com"
         }
       ]
     },
