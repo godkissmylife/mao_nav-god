@@ -320,7 +320,7 @@ export const mockData = {
         },
         {
           "id": "site-1765265435063",
-          "name": "9v4-woainichina-Aa2-8",
+          "name": "wqw.ug.cx-woainichina-Aa2-8",
           "url": "https://store.9v4.com/login",
           "description": "未托管，未使用。12/9注册一年有效期\n",
           "icon": "https://www.faviconextractor.com/favicon/store.9v4.com"
