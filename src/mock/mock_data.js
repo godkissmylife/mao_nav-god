@@ -401,7 +401,7 @@ export const mockData = {
     {
       "id": "category-1765025827712",
       "icon": "📊",
-      "name": "其他",
+      "name": "邮箱&身份生成器",
       "order": 0,
       "sites": [
         {
