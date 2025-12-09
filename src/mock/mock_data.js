@@ -449,7 +449,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1765196348403",
-          "name": "dns.he",
+          "name": "dns.he(Huurricane)",
           "url": "https://dns.he.net/?hosted_dns_zoneid=1290656&menu=edit_zone&hosted_dns_editzone",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/dns.he.net"
