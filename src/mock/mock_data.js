@@ -317,6 +317,13 @@ export const mockData = {
           "url": "https://www.dynu.com/en-US/ControlPanel",
           "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf",
           "icon": "https://www.faviconextractor.com/favicon/www.dynu.com"
+        },
+        {
+          "id": "site-1765265435063",
+          "name": "9v4-woainichina-Aa2-8",
+          "url": "https://store.9v4.com/login",
+          "description": "未托管，未使用。12/9注册一年有效期\n",
+          "icon": "https://www.faviconextractor.com/favicon/store.9v4.com"
         }
       ]
     },
