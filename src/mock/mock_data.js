@@ -266,7 +266,7 @@ export const mockData = {
           "id": "site-1765096861296",
           "name": "ipv6-wjwqw-Aa123",
           "url": "https://tunnelbroker.net/",
-          "description": "2025/12/1注册",
+          "description": "2025/12/1注册,12/9不给ns,cmme",
           "icon": "https://www.faviconextractor.com/favicon/tunnelbroker.net"
         },
         {
