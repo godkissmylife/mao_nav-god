@@ -259,7 +259,7 @@ export const mockData = {
           "id": "site-1765095934629",
           "name": "wqw.gv.uy-woainichina-Aa2-8",
           "url": "https://nic.gv.uy/",
-          "description": "无法托管cf，2025/12/5，一年有效期，cmame导航",
+          "description": "无法托管cf，2025/12/5，一年有效期，cmame导航，2099到期",
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         },
         {
@@ -315,7 +315,7 @@ export const mockData = {
           "id": "site-1765173482774",
           "name": "dynu-god@-Aa2-8",
           "url": "https://www.dynu.com/en-US/ControlPanel",
-          "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf",
+          "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf,---a.wqw.freeddns.org被cmace到god skspages0.",
           "icon": "https://www.faviconextractor.com/favicon/www.dynu.com"
         },
         {
