@@ -292,7 +292,7 @@ export const mockData = {
         },
         {
           "id": "site-1765102230901",
-          "name": "未使用dynv6,wjwqwlove@gmail-Aa2-8",
+          "name": "未使用阻断厉害dynv6,wjwqwlove@gmail-Aa2-8",
           "url": "https://dynv6.com/zones/4000450/instructions",
           "description": "无法ns域名skyfly.v6.rocks",
           "icon": "https://www.faviconextractor.com/favicon/dynv6.com"
@@ -327,9 +327,9 @@ export const mockData = {
         },
         {
           "id": "site-1765340678062",
-          "name": "未使用desec~woainichina@Aa 2－8",
+          "name": "半年要登一次，未使用desec~woainichina@Aa 2－8",
           "url": "https://desec.io/tokens",
-          "description": "wqw.desec.io，12/10注册,cmame到god-skspages1",
+          "description": "wqw.desec.io，12/10注册,cmame",
           "icon": "https://www.faviconextractor.com/favicon/desec.io"
         }
       ]
