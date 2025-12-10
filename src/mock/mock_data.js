@@ -324,6 +324,13 @@ export const mockData = {
           "url": "https://store.9v4.com/login",
           "description": "未托管，未使用。12/9注册一年有效期\n",
           "icon": "https://www.faviconextractor.com/favicon/store.9v4.com"
+        },
+        {
+          "id": "site-1765340678062",
+          "name": "desec~woainichina@Aa 2－8",
+          "url": "https://desec.io/tokens",
+          "description": "",
+          "icon": "https://www.faviconextractor.com/favicon/desec.io"
         }
       ]
     },
