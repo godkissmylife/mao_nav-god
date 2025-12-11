@@ -266,7 +266,7 @@ export const mockData = {
           "id": "site-1765096861296",
           "name": "ipv6-wjwqw-Aa123",
           "url": "https://tunnelbroker.net/",
-          "description": "2025/12/1注册,12/9不给ns,cmme",
+          "description": "2025/12/1注册,托管到woaini－echipv6,边缘证书1年有效而已",
           "icon": "https://www.faviconextractor.com/favicon/tunnelbroker.net"
         },
         {
