@@ -320,16 +320,16 @@ export const mockData = {
         },
         {
           "id": "site-1765265435063",
-          "name": "未使用wqw.ug.cx-woainichina-Aa2-8",
+          "name": "wqw.ug.cx-woainichina-Aa2-8",
           "url": "https://store.9v4.com/login",
           "description": "未托管，未使用。12/9注册一年有效期,a.wqw.fwqw.ug.cx被cmame到god导航mao-nav-god pages\n",
           "icon": "https://www.faviconextractor.com/favicon/store.9v4.com"
         },
         {
           "id": "site-1765340678062",
-          "name": "半年要登一次，未使用desec~woainichina@Aa 2－8",
+          "name": "半年要登一次desec~woainichina@Aa 2－8",
           "url": "https://desec.io/tokens",
-          "description": "wqw.desec.io，12/10注册,cmame",
+          "description": "wqw.desec.io，12/10注册,cmame到god-sub-god.pages.dev.",
           "icon": "https://www.faviconextractor.com/favicon/desec.io"
         }
       ]
