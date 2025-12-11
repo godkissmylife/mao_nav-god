@@ -315,7 +315,7 @@ export const mockData = {
           "id": "site-1765173482774",
           "name": "未使用dynu-god@-Aa2-8",
           "url": "https://www.dynu.com/en-US/ControlPanel",
-          "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf",
+          "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf，a.wqw.freeddns.org被cmame到god导航mao-nav-god pages",
           "icon": "https://www.faviconextractor.com/favicon/www.dynu.com"
         },
         {
