@@ -252,14 +252,14 @@ export const mockData = {
           "id": "site-1765025392286",
           "name": "wqw.frii.site-wqw-Aa2-8",
           "url": "https://www.frii.site/zh_CN/dashboard",
-          "description": "无法托管cf,永久免费，可cmame/A/AAAA，多个域名未使用，2025/12/1注册，永久免费年续约",
+          "description": "无法托管cf,永久免费，可cmame/A/AAAA，多个域名未使用，2025/12/1注册，永久免费年续约,有一个cmame到gvdet",
           "icon": "https://www.faviconextractor.com/favicon/www.frii.site"
         },
         {
           "id": "site-1765095934629",
           "name": "wqw.gv.uy-woainichina-Aa2-8",
           "url": "https://nic.gv.uy/",
-          "description": "无法托管cf，2025/12/5，一年有效期，cmame导航，2099到期",
+          "description": "无法托管cf，2025/12/5，cmame导航，2099到期",
           "icon": "https://www.faviconextractor.com/favicon/nic.gv.uy"
         },
         {
