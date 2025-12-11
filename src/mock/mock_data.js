@@ -313,7 +313,7 @@ export const mockData = {
         },
         {
           "id": "site-1765173482774",
-          "name": "未使用dynu-god@-Aa2-8",
+          "name": "dynu-god@-Aa2-8",
           "url": "https://www.dynu.com/en-US/ControlPanel",
           "description": "2025/12/8注册，wqw.freedns.org永久免费，无法托管cf，a.wqw.freeddns.org被cmame到god导航mao-nav-god pages",
           "icon": "https://www.faviconextractor.com/favicon/www.dynu.com"
@@ -322,7 +322,7 @@ export const mockData = {
           "id": "site-1765265435063",
           "name": "未使用wqw.ug.cx-woainichina-Aa2-8",
           "url": "https://store.9v4.com/login",
-          "description": "未托管，未使用。12/9注册一年有效期\n",
+          "description": "未托管，未使用。12/9注册一年有效期,a.wqw.fwqw.ug.cx被cmame到god导航mao-nav-god pages\n",
           "icon": "https://www.faviconextractor.com/favicon/store.9v4.com"
         },
         {
