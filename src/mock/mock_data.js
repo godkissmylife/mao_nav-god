@@ -322,7 +322,7 @@ export const mockData = {
           "id": "site-1765265435063",
           "name": "wqw.ug.cx-woainichina-Aa2-8",
           "url": "https://store.9v4.com/login",
-          "description": "未托管，未使用。12/9注册一年有效期,a.wqw.fwqw.ug.cx被cmame到god导航mao-nav-god pages\n",
+          "description": "12/9注册一年有效期,a.wqw.fwqw.ug.cx被cmame到god导航mao-nav-god pages\n",
           "icon": "https://www.faviconextractor.com/favicon/store.9v4.com"
         },
         {
@@ -331,6 +331,13 @@ export const mockData = {
           "url": "https://desec.io/tokens",
           "description": "wqw.desec.io，12/10注册,cmame到god-sub-god.pages.dev.",
           "icon": "https://www.faviconextractor.com/favicon/desec.io"
+        },
+        {
+          "id": "site-1765523062726",
+          "name": "ae.ke",
+          "url": "https://registry.kevsrv.me/domain/1f98c425-9ee6-46c0-b2c5-d641a5a1ba30",
+          "description": "2025-12-1注册,托管在Gcore-cmame到god-sks5,2099到期，长期未使用会被删除",
+          "icon": "https://www.faviconextractor.com/favicon/registry.kevsrv.me"
         }
       ]
     },
