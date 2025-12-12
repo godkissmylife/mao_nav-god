@@ -479,7 +479,7 @@ export const mockData = {
     {
       "id": "category-1765196288110",
       "icon": "🌐",
-      "name": "托管平台(要钱要手机验证码)",
+      "name": "托管平台",
       "order": 0,
       "sites": [
         {
@@ -516,6 +516,13 @@ export const mockData = {
           "url": "https://zeabur.com/",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/zeabur.com"
+        },
+        {
+          "id": "site-1765523192646",
+          "name": "Gcore免费托管",
+          "url": "https://gcore.com/",
+          "description": "12/12注册，托管ae.kg,",
+          "icon": "https://www.faviconextractor.com/favicon/gcore.com"
         }
       ]
     }
