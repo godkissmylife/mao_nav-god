@@ -287,7 +287,7 @@ export const mockData = {
           "id": "site-1765097046998",
           "name": "未使用zoneabc-woainichina-Aa2-8",
           "url": "https://zoneabc.net/",
-          "description": "无法托管cf，域名wjwqwlove.zone.net，2025/12/1注册",
+          "description": "不知怎么用，要添加A/AAAA记录也不行，无法托管cf，域名wjwqwlove.zone.net，2025/12/1注册",
           "icon": "https://www.faviconextractor.com/favicon/zoneabc.net"
         },
         {
