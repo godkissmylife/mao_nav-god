@@ -338,6 +338,13 @@ export const mockData = {
           "url": "https://registry.kevsrv.me/domain/1f98c425-9ee6-46c0-b2c5-d641a5a1ba30",
           "description": "2025-12-1注册,托管在Gcore-cmame到god-sks5,2099到期，长期未使用会被删除",
           "icon": "https://www.faviconextractor.com/favicon/registry.kevsrv.me"
+        },
+        {
+          "id": "site-1766593280170",
+          "name": "nn.kg",
+          "url": "https://www.idc.lc/order/service/manage/4002",
+          "description": "20251225注册，wqw.nn.kg托管到Gcore,cmame到god-mao-nav-god,1年续期",
+          "icon": "https://www.idc.lc/order/service/manage/4002"
         }
       ]
     },
