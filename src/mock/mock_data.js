@@ -344,7 +344,7 @@ export const mockData = {
           "name": "nn.kg",
           "url": "https://www.idc.lc/order/service/manage/4002",
           "description": "20251225注册，wqw.nn.kg托管到Gcore,cmame到god-mao-nav-god,1年续期",
-          "icon": "https://www.idc.lc/order/service/manage/4002"
+          "icon": "https://www.idc.lc/"
         }
       ]
     },
