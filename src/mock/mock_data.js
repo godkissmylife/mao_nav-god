@@ -19,6 +19,13 @@ export const mockData = {
           "url": "https://www.cloudns.net/main/dashboard/domain-names/",
           "description": "Aa2-8",
           "icon": "https://www.faviconextractor.com/favicon/www.cloudns.net"
+        },
+        {
+          "id": "site-1766658198661",
+          "name": "Gcore",
+          "url": "https://portal.gcore.com",
+          "description": "Gcore-woainichina-Aa2-8@!",
+          "icon": "https://portal.gcore.com/"
         }
       ]
     },
