@@ -486,7 +486,7 @@ export const mockData = {
     {
       "id": "category-1765108361064",
       "icon": "📚",
-      "name": "博客/论坛/📁",
+      "name": "要强制 Cloudflare Pages 项目开启 HTTPS，主要通过在 Cloudflare 控制面板的 SSL/TLS 设置中启用 \"始终使用 HTTPS\" (Always Use HTTPS) 功能，或通过 页面规则 (Page Rules) 来实现强制 HTTP 访问重定向到 HTTPS，因为 Pages 天然就支持免费的 SSL 证书和代理",
       "order": 0,
       "sites": []
     },
