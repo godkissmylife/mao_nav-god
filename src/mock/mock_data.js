@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "cloud",
-      "name": "云服务(clouddlare/cloudDNS/Gcore)",
+      "name": "云服务",
       "icon": "☁️",
       "order": 2,
       "sites": [
@@ -31,7 +31,7 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "国外图片/视频娱乐软件",
+      "name": "国外软件",
       "icon": "🎮",
       "order": 8,
       "sites": [
@@ -96,7 +96,7 @@ export const mockData = {
     {
       "id": "category-1765024616035",
       "icon": "⚙️",
-      "name": "CF节点及其相关教程或者节点管理",
+      "name": "CF",
       "order": 0,
       "sites": [
         {
@@ -160,7 +160,7 @@ export const mockData = {
     {
       "id": "category-1765025195959",
       "icon": "💼",
-      "name": "ip/家宽/纯净度/检测",
+      "name": "ip/家宽/纯净度",
       "order": 0,
       "sites": [
         {
@@ -252,7 +252,7 @@ export const mockData = {
     {
       "id": "category-1765025368237",
       "icon": "📚",
-      "name": "免费域名及其账号",
+      "name": "免费域名",
       "order": 0,
       "sites": [
         {
@@ -480,6 +480,13 @@ export const mockData = {
           "url": "https://www.amz123.com/tools-fakeidentity",
           "description": "",
           "icon": "https://www.faviconextractor.com/favicon/www.meiguodizhi.com"
+        },
+        {
+          "id": "site-1766668846905",
+          "name": "教育邮箱wjwqw-Aa2-8",
+          "url": "https://mail.ua.edu.kg/inbox",
+          "description": "教育邮箱",
+          "icon": "https://mail.ua.edu.kg/inbox"
         }
       ]
     },
@@ -535,7 +542,7 @@ export const mockData = {
           "id": "site-1765523192646",
           "name": "Gcore免费托管",
           "url": "https://gcore.com/",
-          "description": "12/12注册，托管ae.kg,",
+          "description": "12/12注册，托管ae.kg,-woainichina-Aa2-8@!",
           "icon": "https://www.faviconextractor.com/favicon/gcore.com"
         }
       ]
