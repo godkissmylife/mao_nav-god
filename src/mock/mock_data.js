@@ -2,7 +2,7 @@ export const mockData = {
   "categories": [
     {
       "id": "cloud",
-      "name": "云服务",
+      "name": "云服务(clouddlare/cloudDNS/Gcore)",
       "icon": "☁️",
       "order": 2,
       "sites": [
