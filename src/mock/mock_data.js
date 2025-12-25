@@ -31,7 +31,7 @@ export const mockData = {
     },
     {
       "id": "entertainment",
-      "name": "国外软件",
+      "name": "国外图片/视频娱乐软件",
       "icon": "🎮",
       "order": 8,
       "sites": [
@@ -96,7 +96,7 @@ export const mockData = {
     {
       "id": "category-1765024616035",
       "icon": "⚙️",
-      "name": "edt",
+      "name": "CF节点及其相关教程或者节点管理",
       "order": 0,
       "sites": [
         {
@@ -160,7 +160,7 @@ export const mockData = {
     {
       "id": "category-1765025195959",
       "icon": "💼",
-      "name": "ip check&speed test",
+      "name": "ip/家宽/纯净度/检测",
       "order": 0,
       "sites": [
         {
@@ -252,7 +252,7 @@ export const mockData = {
     {
       "id": "category-1765025368237",
       "icon": "📚",
-      "name": "免费域名",
+      "name": "免费域名及其账号",
       "order": 0,
       "sites": [
         {
