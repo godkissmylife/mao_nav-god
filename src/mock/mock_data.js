@@ -486,7 +486,7 @@ export const mockData = {
     {
       "id": "category-1765108361064",
       "icon": "📚",
-      "name": "要强制 Cloudflare Pages 项目开启 HTTPS，主要通过在 Cloudflare 控制面板的 SSL/TLS 设置中启用 \"始终使用 HTTPS\" (Always Use HTTPS) 功能，或通过 页面规则 (Page Rules) 来实现强制 HTTP 访问重定向到 HTTPS，因为 Pages 天然就支持免费的 SSL 证书和代理。  方法一：全局启用“始终使用 HTTPS”（推荐） 这是最简单直接的方法，对整个域生效： 登录 你的 Cloudflare 账户，选择你的域名。 进入 SSL/TLS > 边缘证书 (Edge Certificates) 选项卡。 找到 “始终使用 HTTPS” (Always Use HTTPS) 选项，并将其 开启 (On)。 这样，所有 HTTP 请求都会自动重定向到 HTTPS。  方法二：使用页面规则（Page Rules）实现更精细控制 如果你只想对特定 URL 或模式强制使用 HTTPS，可以创建页面规则： 在 Cloudflare 控制面板选择你的网站。 进入 规则 (Rules) > 页面规则 (Page Rules)。 点击 “创建页面规则” (Create Page Rule)。 在 URL 字段输入你的网站或子域，例如 http://*.yourdomain.com/*。 添加规则： 选择 “始终使用 HTTPS” (Always Use HTTPS)。 点击 保存并部署 (Save and Deploy)。  方法三：检查 Cloudflare Pages 项目设置（默认情况） Cloudflare Pages 服务本身就集成了免费 SSL 证书和全球 CDN，它会为你的项目自动处理 HTTPS，通常无需额外配置，只要你的 DNS 记录将流量代理到 Cloudflare (云朵图标为橙色)。  通过上述方法，你的 Cloudflare Pages 项目就能强制所有流量通过安全的 HTTPS 连接访问了。 ",
+      "name": "--",
       "order": 0,
       "sites": []
     },
