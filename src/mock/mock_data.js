@@ -352,6 +352,13 @@ export const mockData = {
           "url": "https://www.idc.lc/order/service/manage/4002",
           "description": "20251225注册，wqw.nn.kg托管到Gcore,cmame到god-mao-nav-god,1年续期",
           "icon": "https://www.idc.lc/"
+        },
+        {
+          "id": "site-1766754134575",
+          "name": "indevs.in",
+          "url": "https://indevs.in/overview",
+          "description": "阿三域名，用户名wqw，9031github关联登录wqw.indevs.in",
+          "icon": "https://indevs.in/overview"
         }
       ]
     },
