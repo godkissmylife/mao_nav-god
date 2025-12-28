@@ -362,10 +362,10 @@ export const mockData = {
         },
         {
           "id": "site-1766921527528",
-          "name": "ye.gs公益域名YE.GS,人工审核中",
+          "name": "ye.gs审核中",
           "url": "https://nic.ye.gs/user/login.php",
-          "description": "",
-          "icon": "https://nic.ye.gs/user/login.php"
+          "description": "用户名：wqw密码：Aa2-6.,20251226注册",
+          "icon": "https://www.faviconextractor.com/favicon/nic.ye.gs"
         }
       ]
     },
