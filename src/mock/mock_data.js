@@ -359,6 +359,13 @@ export const mockData = {
           "url": "https://indevs.in/overview",
           "description": "阿三域名，用户名wqw，9031github关联登录wqw.indevs.in.2026/12前到期，暂时无法操作",
           "icon": "https://indevs.in/overview"
+        },
+        {
+          "id": "site-1766921527528",
+          "name": "ye.gs",
+          "url": "https://nic.ye.gs/user/login.php",
+          "description": "",
+          "icon": "https://nic.ye.gs/user/login.php"
         }
       ]
     },
