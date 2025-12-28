@@ -362,7 +362,7 @@ export const mockData = {
         },
         {
           "id": "site-1766921527528",
-          "name": "ye.gs",
+          "name": "ye.gs公益域名YE.GS,人工审核中",
           "url": "https://nic.ye.gs/user/login.php",
           "description": "",
           "icon": "https://nic.ye.gs/user/login.php"
