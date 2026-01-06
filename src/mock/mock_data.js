@@ -357,7 +357,7 @@ export const mockData = {
           "id": "site-1766754134575",
           "name": "indevs.in",
           "url": "https://indevs.in/overview",
-          "description": "阿三域名，用户名wqw，9031github关联登录wqw.indevs.in.2026/12前到期，暂时无法操作",
+          "description": "别人可以，但自己无法托管，英文不翻译也不行新注册也不行，阿三域名，用户名wqw，9031github关联登录wqw.indevs.in.2026/12前到期，暂时无法操作",
           "icon": "https://indevs.in/overview"
         },
         {
