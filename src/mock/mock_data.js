@@ -362,9 +362,9 @@ export const mockData = {
         },
         {
           "id": "site-1766921527528",
-          "name": "ye.gs审核中",
+          "name": "ye.s",
           "url": "https://nic.ye.gs/user/login.php",
-          "description": "用户名：wqw密码：Aa2-6.,20251226注册",
+          "description": "wqw.ys.gs域名 A记录龙殇IPV4( CF CDN加速)用户名：wqw密码：Aa2-6.,20251226注册",
           "icon": "https://www.faviconextractor.com/favicon/nic.ye.gs"
         }
       ]
